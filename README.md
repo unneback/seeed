@@ -1,0 +1,2 @@
+# seeed
+Altium library
